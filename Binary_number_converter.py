@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 num = int(input("Enter your number: "))
 original_num = num
@@ -11,7 +11,7 @@ while num > 0:
     # Adding it on to the binary number
     num //= 2 # flooring the number 
 print(f"Your number, {original_num} converted into binary is: {binary_num}")
-=======
+
 
 num = int(input("Enter your number: "))
 original_num = num
@@ -24,4 +24,4 @@ while num > 0:
     # Adding it on to the binary number
     num //= 2 # flooring the number 
 print(f"Your number, {original_num} converted into binary is: {binary_num}")
->>>>>>> refs/remotes/origin/main
+
