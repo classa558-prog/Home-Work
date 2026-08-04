@@ -1,4 +1,4 @@
-n = int(input("Enter the height")) # Height of the triangle
+n = int(input("Enter the height: ")) # Height of the triangle
 
 for i in range(n+1):
     counter = n-i
