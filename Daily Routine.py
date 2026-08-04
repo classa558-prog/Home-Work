@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 print("My Daily Routine")
 # Step 1: Waking up
 print("I wake up at 7 AM.")
@@ -11,7 +11,7 @@ print("I play with my friends in the evening.")
 
 # Step 4: Studying
 print("I study for 2 hours at night.")
-=======
+
 print("My Daily Routine")
 # Step 1: Waking up
 print("I wake up at 7 AM.")
@@ -24,5 +24,5 @@ print("I play with my friends in the evening.")
 
 # Step 4: Studying
 print("I study for 2 hours at night.")
->>>>>>> refs/remotes/origin/main
+
 print("Total study hours in a week:", 2 * 7) 
