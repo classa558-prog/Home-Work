@@ -3,9 +3,9 @@ try:
     if age < 0 or age < 18:
         raise ArithmeticError
     if age % 2 == 0:
-            print("Odd number and you are permitted for a license.")
+            print("Even number and you are permitted for a license.")
     else:
-        print("Even number and you are permitted for a license.")
+        print("Odd number and you are permitted for a license.")
 
     
 except ValueError:
