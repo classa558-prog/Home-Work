@@ -10,6 +10,6 @@ frequency_of_item = 0
 for key, value in test_dictionary.items():
     if test_dictionary[key] == item_for_test:
         frequency_of_item += 1
-    print(key)
+    print(f"{key}:{value}")
     
 print(f"There are {frequency_of_item} occurences of {item_for_test}.")
