@@ -7,7 +7,7 @@ done = False
 while not done:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            pygame.quit()
+            done = True
         pygame.draw.rect(screen, (255, 0, 0), (320, 240, 50, 50))
         pygame.display.flip()
 print("Pungi")
